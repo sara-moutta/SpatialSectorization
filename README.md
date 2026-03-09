@@ -7,8 +7,8 @@
 This repository contains the complete implementation of the spatial sectorization framework proposed in our study:
 
 > **Moutta, Sara Meira, et al. (2026).**  
-> *"Scalable spatial sectorization strategies for urban service optimization."*  
-> IEEE Access [In Preparation]
+> *"Global and Sector-Based Routing in Waste Collection: Impacts on Google Maps Request Costs."*  
+> [In Preparation]
 
 ---
 
