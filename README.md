@@ -95,7 +95,7 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @article{moutta2026sectorization,
-  title = {Scalable spatial sectorization strategies for urban service optimization},
+  title = {Global and Sector-Based Routing in Waste Collection: Impacts on Google Maps Request Costs},
   author = {Sara Meira Moutta},
   journal = {Journal Name},
   year = {2026},
@@ -115,7 +115,8 @@ APACHE License – see LICENSE file for details.
 
 - **Sara Meira Moutta** (Corresponding Author)  
 Universidade Estadual de Santa Cruz (UESC)  
-Programa de Pós-graduação em Modelagem Computacional UERJ-IPRJ  
+Graduate Program in Computational Modeling
+State University of Rio de Janeiro (UERJ) – Instituto Politécnico (IPRJ) 
 📧 smoutta@uesc.br  
 
 ---
@@ -124,9 +125,9 @@ Programa de Pós-graduação em Modelagem Computacional UERJ-IPRJ
 
 This research was supported by:
 
-- Universidade Estadual de Santa Cruz (UESC)
-
+- Universidade Estadual de Santa Cruz (UESC), Brazil
+- CAPES – Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Brazil)
 ---
 
-**Last Updated**: November 2025  
+**Last Updated**: March 2026  
 **Repository Status**: Under active development for methodological consolidation
